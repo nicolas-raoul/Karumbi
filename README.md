@@ -19,6 +19,7 @@ Building from source
    ```
    make all
    ```
+   Note: For the tests, you will also need to install libharfbuzz (Ubuntu: `sudo apt install libharfbuzz-bin`).
 
 Designer
 =================
